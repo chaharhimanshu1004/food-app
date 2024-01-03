@@ -1,0 +1,7 @@
+.inter-font {
+  font-family: 'Inter';
+}
+.img{
+  background: url('../assets/pic.png');
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Poppins:wght@400;500;700&family=Rubik:wght@400;500;700&display=swap');
